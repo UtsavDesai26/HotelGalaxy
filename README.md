@@ -7,7 +7,7 @@ This is a static website like Galaxy Hotel Vadodara. On this Website, the Most f
 ![FlowChart](https://user-images.githubusercontent.com/80502799/211639519-e0e45a7b-1988-4ddb-a1bb-1c09bda19d53.png)
 
 
-## Functionality
+## Features
 
 #### HomePage
 ![HomePage](https://user-images.githubusercontent.com/80502799/211638546-8a8cefa3-113f-4e24-84b7-3911cf66db4b.png)
